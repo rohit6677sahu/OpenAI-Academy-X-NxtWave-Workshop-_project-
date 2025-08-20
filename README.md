@@ -16,7 +16,7 @@ references.
 2. Automatic Summarization & Highlighting – Upload PDFs/articles; GPT extracts and 
 highlights key points.
 
-[<img src="path/to/image.png">](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mockofun.com%2Ftutorials%2Fhighlight-text%2F&psig=AOvVaw1ExwcYa8AZPGZAQOXqXBYX&ust=1755758265499000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNCmoLDjmI8DFQAAAAAdAAAAABA5)
+example : [](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mockofun.com%2Ftutorials%2Fhighlight-text%2F&psig=AOvVaw1ExwcYa8AZPGZAQOXqXBYX&ust=1755758265499000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNCmoLDjmI8DFQAAAAAdAAAAABA5)
 
 4. Q&A Generator – Auto-generate quizzes, practice tests, and assignments from stored 
 content. 
